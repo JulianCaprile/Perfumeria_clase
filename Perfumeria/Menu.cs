@@ -29,7 +29,7 @@ namespace Perfumeria
 
             // Cuando se cierra, vuelve el logo
             formulario.FormClosed += (s, args) => logo.Visible = true;
-            // Emir
+            
             formulario.Show();
         }
 
