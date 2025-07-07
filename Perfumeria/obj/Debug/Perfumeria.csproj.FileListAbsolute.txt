@@ -1,0 +1,192 @@
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.AssemblyReference.cache
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Properties.Resources.resources
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.GenerateResource.cache
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe.config
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Perfumeria.pdb
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\MySql.Data.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Buffers.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Memory.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\ZstdSharp.dll
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.pdb
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\MySql.Data.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Buffers.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Memory.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.Up2Date
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.pdb
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormProductos.resources
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe.config
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormCompras.resources
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Menu.resources
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Ventas.resources
+C:\Users\Julian\Desktop\Programacion 2\Objetos\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Caja.resources
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe.config
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Perfumeria.pdb
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\MySql.Data.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Buffers.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Memory.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\ZstdSharp.dll
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.pdb
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\MySql.Data.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Buffers.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Memory.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.AssemblyReference.cache
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe.config
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Caja.resources
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Menu.resources
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormProductos.resources
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormCompras.resources
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Properties.Resources.resources
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Ventas.resources
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.GenerateResource.cache
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.CoreCompileInputs.cache
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.Up2Date
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe
+C:\Users\camvi\Downloads\Perfumeria (1)\Perfumeria\Perfumeria\obj\Debug\Perfumeria.pdb
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe.config
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Perfumeria.pdb
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\MySql.Data.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Buffers.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Memory.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\ZstdSharp.dll
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.pdb
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\MySql.Data.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Buffers.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Memory.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.AssemblyReference.cache
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe.config
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Caja.resources
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Menu.resources
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormProductos.resources
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormCompras.resources
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Properties.Resources.resources
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Ventas.resources
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.GenerateResource.cache
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.CoreCompileInputs.cache
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.Up2Date
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe
+C:\Users\Julian\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.pdb
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe.config
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Perfumeria.exe
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Perfumeria.pdb
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\MySql.Data.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Buffers.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Memory.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\ZstdSharp.dll
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.pdb
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Google.Protobuf.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\MySql.Data.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Buffers.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.IO.Pipelines.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Memory.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.AssemblyReference.cache
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe.config
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Caja.resources
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Menu.resources
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormProductos.resources
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.FormCompras.resources
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Properties.Resources.resources
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.Ventas.resources
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.GenerateResource.cache
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.CoreCompileInputs.cache
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.csproj.Up2Date
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.exe
+C:\Users\PC6\Downloads\Perfumeria.1.1\Perfumeria\Perfumeria\Perfumeria\obj\Debug\Perfumeria.pdb
